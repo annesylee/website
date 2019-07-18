@@ -36,7 +36,7 @@
   <a href= "Publications.html"> Publications </a> 
   <a href= "projects.html"> Projects </a> 
   <a href = "contact.html"> Contact </a> 
-  <a href = "CV.html"> CV </a> 
+  <a href = "CV.pdf"> CV </a> 
 </div> 
 </div>
 

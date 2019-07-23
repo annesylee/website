@@ -39,7 +39,7 @@
 .innerbox {
   padding: 10px 20px 20px 20px;
   text-align: justify;
-  height: 1200px;
+  height: 1500px;
 }
 
 div {
@@ -75,7 +75,7 @@ html {
   transition: 0.5s;
   width: 98%;
   height: 33%;
-  padding: 10px;
+  padding: 6px;
 }
 
 .card:hover {
